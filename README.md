@@ -1,9 +1,11 @@
 ### Hola 👋, soy Luis.
 
+![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+
 Soy técnico en computación e informática, además que estoy terminando el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de más de 800 horas.
 Actualmente tengo conocimientos:
 </br>
-Frontend:
+
 
 <code>
   const Luis = {
