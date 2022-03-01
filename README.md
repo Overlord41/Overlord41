@@ -1,16 +1,17 @@
 ### Hola 👋, soy Luis.
 
-![Esta es una imagen](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
+![Esta es una imagen](https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif)
 </br>
 
 Soy técnico en computación e informática, además que estoy terminando el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de más de 800 horas.
 Actualmente tengo conocimientos:
 </br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-pelaez-vargas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-pelaez-vargas/" height="30" width="40" /></a>
 <a href="https://es.stackoverflow.com/users/256000/kraugel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/256000/kraugel" height="30" width="40" /></a>
+ <a href="blackkndd@gmail.com" target="blank"><img align="center" src="https://gestion.pe/resizer/T238gkbQE9XGrvGxdfIKzdu_KCs=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/P2PPYHJBUBE6LLUQJC2L6RUGHA.jpg" alt="blackkndd@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes de programación y herramientas:</h3>
@@ -24,18 +25,16 @@ Actualmente tengo conocimientos:
 - 🌱 Actualmente estoy aprendiendo test con JEST.
 - 👯 Busco colaborar en proyectos interesantes y desafiantes.
 - 💬 Pregúntame sobre React js o node con express.
-- 📫 Cómo contactarme:
-    Email: blackkndd@gmail.com
 - ⚡ Dato curioso: Aveces leo documentación en el celular cuando no estoy trabajando jaja.
 
 </br>
 
 <h2>Un poco sobre mi</h2>
 
-Me gusta el rock, películas de terror, leer libros de fantasía y/o manga.
-Soy una persona que le gusta acampar e ir a la naturaleza, me interesa la tecnología desde que era niño (andaba con mi disquete cuando no tenía pc de niño).
-Siempre me gusta buscar la solución de un problema y me encanta la satistacción que se siente al solucionarlo.
-También me gusta discutir temas interesantes sobre tecnología y crecer mas con ello.
+Me gusta el rock, películas de terror, leer libros de fantasía y/o manga.</br>
+Soy una persona que le gusta acampar e ir a la naturaleza, me interesa la tecnología desde que era niño (andaba con mi disquete cuando no tenía pc de niño).</br>
+Siempre me gusta buscar la solución de un problema y me encanta la satistacción que se siente al solucionarlo.</br>
+También me gusta discutir temas interesantes sobre tecnología y crecer mas con ello.</br>
 
 <!--
 **Overlord41/Overlord41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
