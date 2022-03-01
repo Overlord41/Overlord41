@@ -7,28 +7,13 @@ Frontend:
 
 <code>
   const Luis = {
-    skills: ["HTML"]
+    Skills: {
+      Frontend: ["HTML", "CSS", "Javascript", "React js", "Bootstrap"],
+      Backend: ["Node js", "Javascript", "Express", "Sequelize", "MySQL", "PostgresSQL"]
+    }
   }
   
 </code>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>React js</li>
-  <li>bootstrap</li>
-  <li>node js</li>
-</ul>
-
-Backend:
-
-<ul>
-  <li>Node js</li>
-  <li>Javascript</li>
-  <li>Espress</li>
-  <li>Sequelize</li>
-  <li>MySQL, postgresSQL</li>
-</ul>
 
 
 </br>
