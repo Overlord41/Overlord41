@@ -2,7 +2,15 @@
 
 Soy técnico en computación e informática, además que estoy terminando el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de más de 800 horas.
 Actualmente tengo conocimientos:
+</br>
 Frontend:
+
+<code>
+  const Luis = {
+    skills: ["HTML"]
+  }
+  
+</code>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
