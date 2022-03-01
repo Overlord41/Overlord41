@@ -1,6 +1,6 @@
 ### Hola 👋, soy Luis.
 
-Soy técnico en computación e informática, además que estoy terminando el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de mas de 800 horas.
+Soy técnico en computación e informática, además que estoy terminando el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de más de 800 horas.
 Actualmente tengo conocimientos:
 Frontend:
 <ul>
@@ -27,13 +27,19 @@ Backend:
 
 - 🔭 Actualmente estoy trabajando en proyectos propios.
 - 🌱 Actualmente estoy aprendiendo test con JEST.
-- 👯 Busco colaborar en...
-- 🤔 Busco ayuda con...
+- 👯 Busco colaborar en proyectos interesantes y desafiantes.
 - 💬 Pregúntame sobre React js o node con express.
 - 📫 Cómo contactarme:
     Email: blackkndd@gmail.com
-- ⚡ Dato curioso: ...
+- ⚡ Dato curioso: Aveces leo documentación en el celular cuando no estoy trabajando jaja.
 
+
+<h2>Un poco sobre mi</h2>
+
+Me gusta el rock, películas de terror, leer libros de fantasía y/o manga.
+Soy una persona que le gusta acampar e ir a la naturaleza, me interesa la tecnología desde que era niño (andaba con mi disquete cuando no tenía pc de niño).
+Siempre me gusta buscar la solución de un problema y me encanta la satistacción que se siente al solucionarlo.
+También me gusta discutir temas interesantes sobre tecnología y crecer mas con ello.
 
 <!--
 **Overlord41/Overlord41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
