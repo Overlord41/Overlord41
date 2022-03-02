@@ -4,7 +4,6 @@
 </br>
 
 Soy técnico en computación e informática, además que estoy terminando el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de más de 800 horas.
-Actualmente tengo conocimientos:
 </br>
 
 <h3 align="left">Contactame:</h3>
