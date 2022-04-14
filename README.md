@@ -3,7 +3,7 @@
 ![Esta es una imagen](https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif)
 </br>
 
-Soy técnico en computación e informática, además que estoy terminando el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de más de 800 horas.
+Soy técnico en computación e informática, además terminé el bootcamp de Soy Henry (<a alt="_blank">https://soyhenry.com/</a>) de más de 800 horas.
 </br>
 
 <h3 align="left">Contactame:</h3>
