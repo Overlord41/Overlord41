@@ -20,7 +20,7 @@ Soy técnico en computación e informática, además que estoy terminando el boo
 
 </br>
 
-- 🔭 Actualmente estoy trabajando en proyectos propios.
+- 🔭 Actualmente estoy trabajando en la creación de una web de pepakura con pokémon utilizando typescript y mongo db.
 - 🌱 Actualmente estoy aprendiendo test con JEST.
 - 👯 Busco colaborar en proyectos interesantes y desafiantes.
 - 💬 Pregúntame sobre React js o node con express.
